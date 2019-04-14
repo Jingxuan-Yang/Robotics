@@ -1,2 +1,2 @@
 # Robotics
-some MATLAB programmes for Robotics course.
+Some MATLAB programmes for Robotics course.
